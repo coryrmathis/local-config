@@ -17,3 +17,11 @@ brew "exa"
 brew "bat"
 # JSON Pretty printer
 brew "jq"
+
+# CASKS
+# VS Code
+cask "visual-studio-code"
+# Rectangle (Window management)
+cask "rectangle"
+# iTerm
+cask "iterm2"
